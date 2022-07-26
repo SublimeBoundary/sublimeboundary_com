@@ -10,8 +10,8 @@ mainpitch:
     At Sublime Boundary all of our products are handmade in Hove to high
     standards. We source all of our paper directly from FSC-certified suppliers
     to ensure sustainability from the forest to our door. We pigment-print our
-    artworks onto these high-quality papers and hand-finish everything by hand
-    to ensure a premium quality product.
+    artworks onto these high-quality papers and hand-finish everything to ensure
+    a premium quality product.
 description: Our A6 greetings cards featuring photography by Vicky Waters and
   AI-art by Ganzfeld Studio have a dream-like quality and a tactile, textured
   feel.
