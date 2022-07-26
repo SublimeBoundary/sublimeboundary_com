@@ -17,10 +17,10 @@ description: Our A6 greetings cards featuring photography by Vicky Waters and
   feel.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/20220506_162043.jpg
       text: Ganzfeld Studio uses artificial intelligence to make computer-generated
         art with a surreal, painterly feel.
-    - image: /img/coffee-gear.png
+    - image: /img/nighttime-wallpaper-2-f-20220504_215145.jpg
       text: Vicky is a lens-based artist. The images she creates are often quiet and
         dream-like.
   heading: What we offer
