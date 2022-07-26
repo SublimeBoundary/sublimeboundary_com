@@ -1,21 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Sublime Boundary
+image: /img/sublime-boundary-banner-duotone-black-and-orange-2020-09-27-v04.jpg
+heading: Greetings Cards
+subheading: Greetings cards, prints, photobooks
 mainpitch:
-  title: Why Kaldi
+  title: Why Sublime Boundary?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    At Sublime Boundary all of our products are handmade in Hove to high
+    standards. We source all of our paper directly from FSC-certified suppliers
+    to ensure sustainability from the forest to our door. We pigment-print our
+    artworks onto these high-quality papers and hand-finish everything by hand
+    to ensure a premium quality product.
+description: Our A6 greetings cards featuring photography by Vicky Waters and
+  AI-art by Ganzfeld Studio have a dream-like quality and a tactile, textured
+  feel.
 intro:
   blurbs:
     - image: /img/coffee.png
