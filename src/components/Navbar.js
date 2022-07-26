@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import logo from "../img/Sublime Boundary - logotype - 1920x1920px - 2020-09-26-v01.png";
 
 const Navbar = class extends React.Component {
   constructor(props) {
