@@ -21,8 +21,8 @@ intro:
       text: Ganzfeld Studio uses artificial intelligence to make computer-generated
         art with a surreal, painterly feel.
     - image: /img/nighttime-wallpaper-2-f-20220504_215145.jpg
-      text: Vicky is a lens-based artist. The images she creates are often quiet and
-        dream-like.
+      text: Vicky Waters is a lens-based artist. The images she creates are often
+        quiet and dream-like.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
