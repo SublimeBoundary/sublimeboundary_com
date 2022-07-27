@@ -9,4 +9,4 @@ featuredpost: false
 featuredimage: /img/img_4655.jpg
 tags: []
 ---
-![chemex](/img/img_4655.jpg)
+![The Kemptown Bookshop](/img/img_4655.jpg)
