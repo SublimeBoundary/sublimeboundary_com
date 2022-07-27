@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Cards available at The Secret Garden Kemptown
-date: 2017-01-04T15:04:10.000Z
+date: 2022-07-17T09:00:10.000Z
 description: We’re proud to announce that Sublime Boundary greetings cards by
   Vicky Waters are on sale every Sunday at the Secret Garden Kemptown—supporting
   the Antony Dale Trust.
