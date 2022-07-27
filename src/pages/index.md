@@ -5,24 +5,16 @@ image: /img/sublime-boundary-banner-duotone-black-and-orange-2020-09-27-v04.jpg
 heading: Greetings Cards
 subheading: Handmade in Hove
 mainpitch:
-  title: Why Sublime Boundary?
+  title: About us
   description: >
-    At Sublime Boundary all of our products are handmade in Hove to high
-    standards. We source all of our paper directly from FSC-certified suppliers
-    to ensure sustainability from the forest to our door. We pigment-print our
-    artworks onto these high-quality papers and hand-finish everything to ensure
-    a premium quality product.
-description: Our A6 greetings cards featuring photography by Vicky Waters and
-  AI-art by Ganzfeld Studio have a dream-like quality and a tactile, textured
-  feel.
+    Sublime Boundary products are handmade in Hove to exacting standards. All our paper comes from FSC-certified suppliers—ensuring sustainability. We hand-finish everything to ensure a premium quality product.
+description: Our greetings cards feature photography by Vicky Waters and AI-art by Ganzfeld Studio. Our chosen artworks have a dream-like quality and a tactile, textured feel.
 intro:
   blurbs:
     - image: /img/20220506_162043.jpg
-      text: Ganzfeld Studio uses artificial intelligence to make computer-generated
-        art with a surreal, painterly feel.
+      text: Ganzfeld Studio uses AI to make computer-generated art with a surreal, painterly feel.
     - image: /img/nighttime-wallpaper-2-f-20220504_215145.jpg
-      text: Vicky Waters is a lens-based artist. The images she creates are often
-        quiet and dream-like.
+      text: Vicky Waters is a lens-based artist. The images she creates are often quiet and dream-like.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
