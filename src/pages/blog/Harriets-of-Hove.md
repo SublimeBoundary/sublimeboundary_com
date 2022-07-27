@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Cards available at Harriet's of Hove
 date: 2022-01-19T10:00:55.988Z
-description: Sublime Boundary A6 greetings cards
+description: Sublime Boundary A6 greetings cards by Vicky Waters and Ganzfeld Studio
 featuredpost: false
 featuredimage: /img/20220707_123416.jpg
 tags:
