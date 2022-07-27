@@ -12,4 +12,4 @@ Cards by [Ganzfeld Studio](https://ganzfeld.studio) are now available at the [Ke
 
 Kemptown Bookshop on [Google Maps](https://goo.gl/maps/rbMCygzfbB58P9MK6).
 
-![Photo of the shopfront at Kemptown Bookshop](/img/img_4655.jpg)
+![Photo of the shopfront at Kemptown Bookshop.](/img/img_4655.jpg)
