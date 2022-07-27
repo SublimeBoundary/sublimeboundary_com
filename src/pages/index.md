@@ -8,7 +8,7 @@ mainpitch:
   title: About us
   description: >
     Sublime Boundary products are handmade in Hove to exacting standards. All our paper comes from FSC-certified suppliers—ensuring sustainability. We hand-finish everything to ensure a premium quality product.
-description: Our greetings cards feature photography by Vicky Waters and AI-art by Ganzfeld Studio. Our chosen artworks have a dream-like quality and a tactile, textured feel.
+description: Sublime Boundary greetings cards feature photography by Vicky Waters and AI-art by Ganzfeld Studio. Our chosen artworks have a dream-like quality and a tactile, textured feel.
 intro:
   blurbs:
     - image: /img/20220506_162043.jpg
