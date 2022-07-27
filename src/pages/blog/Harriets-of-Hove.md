@@ -10,4 +10,4 @@ tags:
 ---
 Cards by Vicky Waters and [Ganzfeld Studio](https://ganzfeld.studio) are now in stock at Harriet's of Hove, the plastic free pantry, on Blatchington Road in Hove. Order online [here](https://www.harrietsofhove.com/?s=sublime+boundary).
 
-![Harriet's of Hove - The Plastic Free Pantry](/img/20220707_123416.jpg)
+![Photo of the shopfront at Harriet's of Hove - The Plastic Free Pantry](/img/20220707_123416.jpg)
