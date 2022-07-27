@@ -9,4 +9,4 @@ tags: []
 ---
 Cards by [Ganzfeld Studio](https://ganzfeld.studio) are now available at the [Kemptown Bookshop](https://www.kemptownbookshop.co.uk/), Brighton's oldest independent bookshop, St George's Road, Kemptown, Brighton.
 
-![The Kemptown Bookshop](/img/img_4655.jpg)
+![Photo of the shopfront at Kemptown Bookshop](/img/img_4655.jpg)
