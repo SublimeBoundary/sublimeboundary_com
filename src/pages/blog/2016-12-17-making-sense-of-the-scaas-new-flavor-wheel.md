@@ -7,6 +7,7 @@ description: Sublime Boundary A6 greetings cards by Vicky Waters and Ganzfeld
   free pantry on Blatchington Road in Hove.
 featuredpost: false
 featuredimage: /img/20220707_123416.jpg
-tags: []
+tags:
+  - Hove
 ---
 ![Harriet's of Hove - The Plastic Free Pantry](/img/20220707_123416.jpg)
