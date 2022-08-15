@@ -4,7 +4,7 @@ title: Cards available at Waterstones, Hove
 date: 2022-08-01T09:00:47.251Z
 description: Sublime Boundary A6 greetings cards by Ganzfeld Studio
 featuredpost: false
-featuredimage: /img/20220707_123416.jpg
+featuredimage: /img/img-5156.jpg
 tags:
   - Hove
 ---
