@@ -45,7 +45,7 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4">
+              <div className="column is-4 social">
                 <a title="sales@sublimeboundary.com" href="mailto:sales@sublimeboundary.com"></a>
               </div>
               <div className="column is-4 social">
