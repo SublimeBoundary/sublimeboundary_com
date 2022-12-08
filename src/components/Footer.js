@@ -46,16 +46,7 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="mailto:sales@sublimeboundary.com">
-                        sales@sublimeboundary.com
-                      </Link>
-                    </li>
-                    
-                  </ul>
-                </section>
+                <a title="sales@sublimeboundary.com" href="mailto:sales@sublimeboundary.com"></a>
               </div>
               <div className="column is-4 social">
                 <a title="facebook" href="https://facebook.com/sublimeboundary">
