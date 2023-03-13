@@ -13,7 +13,7 @@ intro:
   blurbs:
     - image: /img/Regency Space-Age 4.png
       text: Ganzfeld Studio uses machine-learning models to make computer-generated art with a dreamlike feel.
-    - image: /img/SUBL20002 - Vicky Waters - Foxglove.png
+    - image: /img/SUBL20017 - Vicky Waters - Yellow coneflowers.png
       text: Vicky Waters is a lens-based artist, making images that explore gardens and green-spaces.
   heading: What we offer
   description: >
