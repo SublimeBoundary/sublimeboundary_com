@@ -12,7 +12,7 @@ description: Sublime Boundary greetings cards feature photography by Vicky Water
 intro:
   blurbs:
     - image: /img/20220506_162043.jpg
-      text: Ganzfeld Studio uses AI to make computer-generated art with a surreal, painterly feel.
+      text: Ganzfeld Studio uses machine-learning models to make computer-generated art with a dreamlike feel.
     - image: /img/nighttime-wallpaper-2-f-20220504_215145.jpg
       text: Vicky Waters is a lens-based artist. The images she creates are often quiet and dream-like.
   heading: What we offer
