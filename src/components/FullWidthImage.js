@@ -73,8 +73,8 @@ export default function FullWidthImage(props) {
                 style={{
                   boxShadow:
                     "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(0, 0, 0)",
-                  color: "white",
+                  backgroundColor: "white",
+                  color: "black",
                   lineHeight: "1",
                   padding: "0.25em",
                 }}
@@ -87,9 +87,9 @@ export default function FullWidthImage(props) {
                 className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
                 style={{
                   boxShadow:
-                    "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(0, 0, 0)",
-                  color: "white",
+                    "white 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
+                  backgroundColor: "white",
+                  color: "black",
                   lineHeight: "1",
                   padding: "0.25rem",
                   marginTop: "0.5rem",
