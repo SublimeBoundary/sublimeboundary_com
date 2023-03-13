@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Sublime Boundary
-image: /img/sublime-boundary-banner-duotone-black-and-orange-2020-09-27-v04.jpg
+image: /img/sublime-boundary-banner-duotone-black-and-orange-2023-03-13-v01.png
 heading: Greetings Cards and Prints
 subheading: Handmade in Hove
 mainpitch:
