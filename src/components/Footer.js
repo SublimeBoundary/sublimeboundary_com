@@ -50,7 +50,7 @@ const Footer = class extends React.Component {
               </div>
               <div className="column is-4 social">
               <a title="sales@sublimeboundary.com" href="mailto:sales@sublimeboundary.com" target="_blank" rel="noopener noreferrer nofollow">
-                  <img src="https://cdn-icons-png.flaticon.com/16/542/542689.png" alt="Facebook" style="width: 1em; height: 1em;"></a>
+                  <img src="https://cdn-icons-png.flaticon.com/16/542/542689.png" alt="Facebook" style="width: 1em; height: 1em;"></img></a>
               <a title="facebook" href="https://facebook.com/sublimeboundary">
                   <img
                     src={facebook}
